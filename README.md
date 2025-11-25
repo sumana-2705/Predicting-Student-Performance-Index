@@ -1,6 +1,5 @@
 # Student Performance Prediction using Multiple Linear Regression
 
-## Problem Statement
 
 **Objective**: To develop a regression model that accurately predicts the Student Performance Index using multiple independent variables.
 
